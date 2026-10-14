@@ -114,6 +114,8 @@ O que observar:
   X-Upstream: 172.18.0.3:80
   ...
   ```
+Resultados obtidos do terminal:
+![Teste do balanceamento](teste%20do%20balanceamento.png)
 
 ### O que o comando faz
 
